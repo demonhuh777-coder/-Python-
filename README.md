@@ -82,7 +82,7 @@ Sleep_health_and_lifestyle_dataset.csv
 ### Step 3：运行主程序
 
 在终端或 Python IDE（如 PyCharm、VS Code）中执行：
-python main.py
+python期末大作业.py
 
 ### Step 4：查看输出结果
 
